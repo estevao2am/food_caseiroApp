@@ -13,20 +13,18 @@
 
 </h1>
 
-<h2 >
+<p >
     <a href="https://reactnative.dev/"> React Native</a>
-</h2>
+</p>
 
-<h2 >
+<hp >
     <a href="https://expo.dev/client"> Expo Go</a>
-</h2>
-<h2 >
-    <a href="https://spring.io/"> Spring Boot</a>
-</h2>
+</p>
 
-<h2>
+
+<p>
     <a href="https://www.mysql.com/"> Mysql</a>
-</h2>
+</p>
 
 ### To run the project, run the following commands:
 
