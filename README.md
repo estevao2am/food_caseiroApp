@@ -28,4 +28,11 @@
     <a href="https://www.mysql.com/"> Mysql</a>
 </h2>
 
+### To run the project, run the following commands:
+
+1. ``yarn install.`` => to install all dependencies
+1. ``expo start dev.`` =>   to start the app
+
+## By : Estevao Mbala 🚀 
+
  
